@@ -9,3 +9,13 @@
 section{
     padding-top: 5rem;
 }
+
+.card-body h5 a {
+    color: rgba(0, 0, 0, 9);
+    text-decoration: none;
+    text-align: right;
+    
+}
+h5 a:hover{
+ color:  royalblue;
+}
